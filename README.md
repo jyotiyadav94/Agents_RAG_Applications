@@ -45,14 +45,6 @@ In complex environments, leveraging multiple agents can enhance the capability a
 #### Resources:
 - [Multi-Agent Framework Guide](https://multiagentframework.com/guide)
 
-## Contributing
-
-We welcome contributions from the community! If you have a project related to agents and RAG-based applications that you would like to share, please submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contact
 
 For any questions or inquiries, please contact [your-email@example.com](mailto:jojoyadav255@gmail.com).
